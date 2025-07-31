@@ -5,12 +5,5 @@
     "category": "Infection Medicine",
     "year": 2024,
     "keywords": ["infection", "โรคติดต่อ", "เพศสัมพันธ์"]
-  },
-  {
-    "title": "Pediatric Asthma Guideline 2022",
-    "file": "data/pediatrics/asthma-kids-2022.pdf",
-    "category": "Pediatrics",
-    "year": 2022,
-    "keywords": ["asthma", "pediatrics", "หอบหืด", "เด็ก"]
   }
 ]
